@@ -411,3 +411,9 @@ function login_notify_user_login(&$edit, $account) {
 ## Thanks for coming!
 
 ## Now it's your time to ask questions!
+
+
+
+## Link to this slideshow
+
+### http://ykyuen.github.io/slides/002-intro-to-drupal
