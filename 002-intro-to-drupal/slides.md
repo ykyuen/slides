@@ -2,6 +2,11 @@
 
 # Introduction to Drupal
 
+<br>
+
+### Dutch: druppel m (plural druppels, diminutive druppeltje)
+#### English: A water drop
+
 
 
 ![fullscreen](assets/images/big-rain.jpg)
