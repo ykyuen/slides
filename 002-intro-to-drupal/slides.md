@@ -97,7 +97,7 @@
 * Promising technology with large community backup
 * Cut down development time
 * Well tested and safe to use
-* Regular security update avaiable
+* Regular security update available
 * Easy for the team to pick up
 
 
