@@ -80,7 +80,7 @@
 ## Overview (As of August 2013)
 
 * Over 980,000 registered users on [drupal.org][1]
-* About 28,000 of them are developers
+* About 28,000 of theme are developers
 * Almost 23,000 contributed modules and themes
 * 2% of top million sites are built on Drupal ([BuiltWith][2])
 
