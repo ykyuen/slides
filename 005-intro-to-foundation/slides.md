@@ -241,18 +241,14 @@ Interchange also works for background-image
 
 
 <aside class="notes"></aside>
-# Let's move on to see some cool Javascript feature!
+# Let's move on to see some cool Javascript features!
 
 
 
 ## Navigation
 <aside class="notes"></aside>
 
-Offcanvas is one of the navigation menu provided by Foundation.
-
-```html
-< script src="js/foundation/foundation.offcanvas.js">< /script>
-```
+Offcanvas is one of the navigation menus provided by Foundation.
 
 
 
@@ -289,7 +285,7 @@ Offcanvas is one of the navigation menu provided by Foundation.
 ## Form Validation
 <aside class="notes"></aside>
 
-Don't forget to include the foundation.abide.js
+Foundation has include abide.js for HTML form validation
 
 ```html
 <div class="row">
