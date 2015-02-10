@@ -322,7 +322,7 @@ Foundation has include abide.js for HTML form validation
   * Relative sizing unit
   * Easier Customization
 
-* Boostrap
+* Bootstrap
   * Larger community
   * More themes
   * Support IE8
